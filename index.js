@@ -14,3 +14,5 @@ app.get('/info', (req, res) => {
     res.json({ linguagem: 'Node.js', biblioteca: 'Express' });
     });
     
+const moment = require('moment');
+console.log("Data atual:", moment().format('DD/MM/YYYY HH:mm:ss'));
