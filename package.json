@@ -1,0 +1,21 @@
+{
+  "name": "pratica_nuvem",
+  "version": "0.0.0",
+  "description": "pratica de nuvem ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pratica=desenv.nuvem"
+  },
+  "keywords": [
+    "pratica"
+  ],
+  "author": "jose",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
